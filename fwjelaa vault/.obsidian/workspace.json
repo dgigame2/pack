@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "f7a0000000000a00",
+    "type": "split",
+    "children": [
+      {
+        "id": "12c8c87a4d00ce59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85a2ee0c328a83d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Studio and Workflow/Creator Store and Toolbox Safety.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Creator Store and Toolbox Safety"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7a0000000000b00",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7a0000000000b01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7a0000000000001",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "f7a0000000000002",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {},
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f7a0000000000003",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7a0000000000c00",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7a0000000000c01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7a0000000000004",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {},
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f7a0000000000005",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f4a6c0422e17c59d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10 Game Design and Genres/Boss Fight Design Patterns.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "09a0b553f1d688a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "3e9644972ebee83e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "85a2ee0c328a83d7",
+  "lastOpenFiles": [
+    "01 Studio and Workflow/Command Bar and Studio Scripting.md",
+    "90 Nosso Estudio/Avaliacao - Destrua a Cidade.md",
+    "90 Nosso Estudio/Descobertas/Tendencias 2026-11-19.md",
+    "90 Nosso Estudio/Monetizacao - Disaster Evolution.md",
+    "90 Nosso Estudio/Descobertas/Trava de idade - 100 jogadores engajados.md",
+    "90 Nosso Estudio/Descobertas/YouTube bloqueia transcricoes.md",
+    "90 Nosso Estudio/videos-pendentes.md",
+    "90 Nosso Estudio/Videos x Disaster Evolution.md",
+    "90 Nosso Estudio/Plano MVP - Disaster Evolution.md",
+    "90 Nosso Estudio/Descobertas/Itens aleatorios pagos - odds obrigatorias.md",
+    "90 Nosso Estudio/Descobertas/Disaster Evolution - concorrencia.md",
+    "90 Nosso Estudio/Descobertas/DevEx - taxa e saque.md",
+    "90 Nosso Estudio/Descobertas/Como usar.md",
+    "90 Nosso Estudio/Descobertas/Algoritmo - janela de 28 dias e sinais.md",
+    "22 Anti-Exploit and Security/Admin Commands Done Safely - Permissions and Audit Logs.md",
+    "11 Monetization Publishing and Live Ops/Ads and Rewarded Video.md",
+    "90 Nosso Estudio/sedgBqAIB",
+    "90 Nosso Estudio/Contexto - Disaster Evolution.md",
+    "90 Nosso Estudio/Design - Disaster Evolution (Tornado).md",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "90 Nosso Estudio/notas/loops.md",
+    "90 Nosso Estudio/notas/diversao.md",
+    "10 Game Design and Genres/Boss Fight Design Patterns.md",
+    "10 Game Design and Genres/Balancing with Spreadsheets and Data.md",
+    "INDEX_SLIM.md",
+    "INDEX.md",
+    "Glossary.md",
+    "_assets/fwj-logo.png",
+    "33 Level Design/Level Design Start Here.md"
+  ]
+}
